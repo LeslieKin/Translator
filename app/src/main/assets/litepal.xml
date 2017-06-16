@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="NoteBook"></dbname>
+
+    <version value="2"></version>
+
+    <list>
+        <mapping class="com.cn.kin.translator.database.NoteBook"></mapping>
+    </list>
+</litepal>

@@ -37,7 +37,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:id="@+id/image_view_mark_star"
-                android:src="@drawable/ic_favorite_white_24dp"/>
+                android:src="@drawable/ic_favorite_border_white_24dp"/>
 
             <ImageView
                 android:layout_width="0dp"

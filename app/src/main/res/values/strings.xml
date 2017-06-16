@@ -6,7 +6,7 @@
 
     <string name="translate">翻译</string>
     <string name="voice_input">语音输入</string>
-    <string name="daily_one">每日一句</string>
+    <string name="daily_one">今日例句</string>
     <string name="notebook">笔记本</string>
     <string name="setting">设置</string>
     <string name="about">关于</string>
@@ -20,5 +20,21 @@
     <string name="input_hint">Please enter what you need to translate...</string>
     <string name="clear">Clear the content</string>
 
+    <string name="tran_error">sorry!服务器开小差拉</string>
+    <string name="no_network">网络连接错误</string>
+    <string name="settings">设置</string>
 
+    <string name="no_input">输入为空</string>
+
+    <string name="play_error">播放错误！</string>
+
+    <string name="add_collection">已添加至收藏夹</string>
+    <string name="removeFrom_collection">已从收藏夹移除</string>
+    <string name="choose_app_share">分享到</string>
+    <string name="copy_finish">复制成功</string>
+
+    <string name="daily_cString">Hello,Welcome to come here</string>
+    <string name="daily_eString">你好，欢迎来到这里</string>
+
+    <string name="no_note">没有笔记</string>
 </resources>
